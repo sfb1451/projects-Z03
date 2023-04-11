@@ -1,1 +1,48 @@
-.git/annex/objects/2f/Kg/MD5E-s1949--10cd54969ccbdd47f72ef5a975bd4232.cff/MD5E-s1949--10cd54969ccbdd47f72ef5a975bd4232.cff
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Human Motor Assessment Centre
+message: This is our project description
+type: dataset
+authors:
+  - given-names: Peter
+    family-names: Weiss-Blankenhorn
+    affiliation: >-
+      Department of Neurology, Faculty of Medicine
+      and University Hospital Cologne, University of
+      Cologne, Germany; Cognitive Neuroscience,
+      Institute of Neuroscience and Medicine (INM-3),
+      Research Centre Juelich, Germany.
+  - given-names: Christian
+    family-names: Grefkes
+    affiliation: >-
+      Department of Neurology, Faculty of Medicine
+      and University Hospital Cologne, University of
+      Cologne, Germany; Cognitive Neuroscience,
+      Institute of Neuroscience and Medicine (INM-3),
+      Research Centre Juelich, Germany.
+  - given-names: Sylvia
+    family-names: Latarnik
+    affiliation: >-
+      Department of Neurology, Faculty of Medicine
+      and University Hospital Cologne, University of
+      Cologne, Germany; Cognitive Neuroscience,
+      Institute of Neuroscience and Medicine (INM-3),
+      Research Centre Juelich, Germany.
+abstract: >-
+  The Human Motor Assessment Centre will serve as a
+  platform for the standardised
+  behavioural/neuropsychological assessment of all
+  human study participants and standardised imaging
+  measurements (e.g., resting-state EEG and (f)MRI).
+  Such standardisation of protocols will not only
+  guarantee high-quality measurements but also enable
+  the pooling of data from different projects. The
+  latter is essential for identifying common
+  mechanisms underlying motor control. In cooperation
+  with INF, Z03 will provide access to a database for
+  healthy subjects of different ages facilitating the
+  recruitment of control participants for the human
+  CRC projects and thereby allowing for large samples
+  with sufficient statistical power.
