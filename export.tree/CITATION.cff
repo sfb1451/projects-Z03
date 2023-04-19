@@ -1,0 +1,17 @@
+abstract: The Human Motor Assessment Centre will serve as a platform for the standardised
+  behavioural/neuropsychological assessment of all human study participants and standardised
+  imaging measurements (e.g., resting-state EEG and (f)MRI). Such standardisation
+  of protocols will not only guarantee high-quality measurements but also enable the
+  pooling of data from different projects. The latter is essential for identifying
+  common mechanisms underlying motor control. In cooperation with INF, Z03 will provide
+  access to a database for healthy subjects of different ages facilitating the recruitment
+  of control participants for the human CRC projects and thereby allowing for large
+  samples with sufficient statistical power.
+authors:
+- {family-names: Weiss-Blankenhorn, given-names: Peter}
+- {family-names: Grefkes, given-names: Christian}
+- {family-names: Latarnik, given-names: Silvia}
+- {family-names: Binder, given-names: Ellen}
+cff-version: 1.2.0
+message: Generated with data scraped from crc1451.uni-koeln.de
+title: 'Z03: Human Motor Assessment Centre'
