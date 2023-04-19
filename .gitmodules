@@ -1,0 +1,5 @@
+[submodule "motor-assessment-derived"]
+	path = motor-assessment-derived
+	url = ssh://juseless.inm7.de/data/group/psyinf/sfb1451/motor-assessment/storage/alias/motor-assessment-derived
+	datalad-id = 78b6be24-01f6-4abe-8d02-cdfe2fbc9751
+	datalad-url = "ria+ssh://juseless.inm7.de/data/group/psyinf/sfb1451/motor-assessment/storage#~motor-assessment-derived"
