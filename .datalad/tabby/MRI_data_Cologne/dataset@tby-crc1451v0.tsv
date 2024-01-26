@@ -1,14 +1,12 @@
-# Documentation at	https://rdm.sfb1451.de/data-catalog-submission/#table-																			
-# bold indicates required																				
-name	Z03-MRI-BIDS																			
-title	Z03 MRI dataset																			
-description	Human Motor Assessment Centre																			
-crc-project	Z03																			
-version	latest																			
-sample[organism]	NCBITaxon:9606																			
-sample[organism-part]	UBERON:0000955																		
-keywords																			
-license																				
-doi																				
+name	Z03-MRI-BIDS
+title	Z03 MRI dataset (Cologne site)
+description	Human Motor Assessment Centre data acquired at the MPI in Cologne.
+crc-project	Z03
+version	latest
+sample[organism]	NCBITaxon:9606
+sample[organism-part]	UBERON:0000955
+keywords	MRI	NIfTI
+license	
+doi	
 homepage	https://www.crc1451.uni-koeln.de/index.php/z03/
 last-updated	2023-10-02
