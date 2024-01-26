@@ -1,1 +1,14 @@
-../../../.git/annex/objects/76/3f/MD5E-s628--2c650916e2f06aeb46f5a4a9a23a8387.tsv/MD5E-s628--2c650916e2f06aeb46f5a4a9a23a8387.tsv
+# Documentation at	https://rdm.sfb1451.de/data-catalog-submission/#table-																			
+# bold indicates required																				
+name	Z03-MRI-BIDS																			
+title	Z03 MRI dataset																			
+description	Human Motor Assessment Centre																			
+crc-project	Z03																			
+version	latest																			
+sample[organism]	NCBITaxon:9606																			
+sample[organism-part]	UBERON:0000955																		
+keywords																			
+license																				
+doi																				
+homepage	https://www.crc1451.uni-koeln.de/index.php/z03/
+last-updated	2023-10-02
