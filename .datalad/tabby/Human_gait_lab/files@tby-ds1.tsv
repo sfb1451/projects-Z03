@@ -1,0 +1,28 @@
+# Documentation at	https://rdm.sfb1451.de/data-catalog-submission/#table-files		
+# bold indicates required			
+path[POSIX]	size[bytes]	checksum[md5]	url
+human_cross_species/E.xlsx			
+human_cross_species/F.xlsx			
+human_cross_species/J.xlsx			
+human_cross_species/KP.xlsx			
+human_cross_species/LH.xlsx			
+human_cross_species/O_05.xlsx			
+human_cross_species/O_07.xlsx			
+human_cross_species/O_08.xlsx			
+human_cross_species/O_09.xlsx			
+human_cross_species/O_10.xlsx			
+human_cross_species/O_11.xlsx			
+human_cross_species/O_12.xlsx			
+human_cross_species/O_13.xlsx			
+human_cross_species/O_15.xlsx			
+human_cross_species/O_16.xlsx			
+human_cross_species/O_18.xlsx			
+human_cross_species/SK.xlsx			
+human_cross_species/T.xlsx			
+human_cross_species/VW2.xlsx			
+human_cross_species/Y_04.xlsx			
+human_cross_species/Y_07.xlsx			
+human_cross_species/Y_11.xlsx			
+human_cross_species/Y_12.xlsx			
+human_cross_species/Y_15.xlsx			
+human_cross_species/v2_table_stance_swing.xlsx			

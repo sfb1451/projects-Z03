@@ -1,0 +1,14 @@
+# Documentation at	https://rdm.sfb1451.de/data-catalog-submission/#table-	
+# bold indicates required		
+name	Human_gait_lab	
+title	Cross-species-project: Human gait laboratory 	
+description	This dataset contains gait data from healthy participants of different ages. Data is given as 3D coordinates of joint-centers and the calculated joint-angels through the gait cycle. Additionally we annotated the gait cycle and separated swing and stance phases. Annotations are given in an additional table. This data is compatible with the AutoGaitA Toolbox. 	
+crc-project	Z03	
+version	latest	
+sample[organism]	NCBITaxon:9606	
+sample[organism-part]	UBERON:0008785	UBERON:0008784
+keywords	gait analysis	
+license		
+doi		
+homepage		
+last-updated		
