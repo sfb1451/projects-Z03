@@ -7,7 +7,7 @@ crc-project	Z03
 version	latest	
 sample[organism]	NCBITaxon:9606	
 sample[organism-part]	UBERON:0000955	
-keywords	mri	
+keywords	MRI	DICOM
 license		
 doi		
 homepage		
