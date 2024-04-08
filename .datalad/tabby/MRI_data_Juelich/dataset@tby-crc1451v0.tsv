@@ -1,14 +1,12 @@
-# Documentation at	https://rdm.sfb1451.de/data-catalog-submission/#table-	
-# bold indicates required		
-name	Human Motor Assessment Center (MRI)	
-title	Database for MRI data from Z03	
-description	The Human Motor Assessment Centre will serve as a platform for the standardised behavioural/neuropsychological assessment of all human study participants and standardised imaging measurements (e.g., resting-state EEG and (f)MRI). Such standardisation of protocols will not only guarantee high-quality measurements but also enable the pooling of data from different projects. The latter is essential for identifying common mechanisms underlying motor control. In cooperation with INF, Z03 will provide access to a database for healthy subjects of different ages facilitating the recruitment of control participants for the human CRC projects and thereby allowing for large samples with sufficient statistical power.	
-crc-project	Z03	
-version	latest	
-sample[organism]	NCBITaxon:9606	
-sample[organism-part]	UBERON:0000955	
+name	Human Motor Assessment Center (MRI)
+title	Z03 MRI Dataset (Jülich site)
+description	Human Motor Assessment Centre data acquired at the FZJ Imaging Core Facility.
+crc-project	Z03
+version	latest
+sample[organism]	NCBITaxon:9606
+sample[organism-part]	UBERON:0000955
 keywords	MRI	DICOM
-license		
-doi		
-homepage		
-last-updated		
+license	
+doi	
+homepage	
+last-updated	
