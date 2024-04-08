@@ -1,34 +1,90 @@
 # Documentation at	https://rdm.sfb1451.de/data-catalog-submission/#table-files		
 # bold indicates required			
 path[POSIX]	size[bytes]	checksum[md5]	url
-sourcedata/DICOM/P000803_dicom.tar		3e48128df841dd1bc618004e5a9856d8	https://data.inm-icf.de/Z03/P000803_dicom.tar
-sourcedata/DICOM/P000810_dicom.tar		b63d8bcb6532da100e318414c31bd5eb	https://data.inm-icf.de/Z03/P000810_dicom.tar
-sourcedata/DICOM/P000818_dicom.tar		cc6ad7382b9ca0a093855c8db379b0ee	https://data.inm-icf.de/Z03/P000818_dicom.tar
-sourcedata/DICOM/P000819_dicom.tar		ff0e341685fec98e6bac492676499e15	https://data.inm-icf.de/Z03/P000819_dicom.tar
-sourcedata/DICOM/P000830_dicom.tar		dcca6f00f8168b45c6022e53c8c15afd	https://data.inm-icf.de/Z03/P000830_dicom.tar
-sourcedata/DICOM/P000840_dicom.tar		971272bd104a7ba3a0ee03f30e0fd080	https://data.inm-icf.de/Z03/P000840_dicom.tar
-sourcedata/DICOM/P000844_dicom.tar		020e88eb87f68b6364b5910a08908f7a	https://data.inm-icf.de/Z03/P000844_dicom.tar
-sourcedata/DICOM/P000845_dicom.tar		422579884cfc64522d8e317fda64a912	https://data.inm-icf.de/Z03/P000845_dicom.tar
-sourcedata/DICOM/P000854_dicom.tar		d007af0e139fa002878ec874f0924f4a	https://data.inm-icf.de/Z03/P000854_dicom.tar
-sourcedata/DICOM/P000855_dicom.tar		28543dffc50c8f8accaef97882591539	https://data.inm-icf.de/Z03/P000855_dicom.tar
-sourcedata/DICOM/P000873_dicom.tar		7bb99b8304a636f17254e62ad39112e3	https://data.inm-icf.de/Z03/P000873_dicom.tar
-sourcedata/DICOM/P000874_dicom.tar		58747354a575d0aac50c6dd3e7f1f8b9	https://data.inm-icf.de/Z03/P000874_dicom.tar
-sourcedata/DICOM/P000888_dicom.tar		7b08d8d1b740838932231862ca132314	https://data.inm-icf.de/Z03/P000888_dicom.tar
-sourcedata/DICOM/P000889_dicom.tar		6e3c5d49adb30c66adf2071f58720d10	https://data.inm-icf.de/Z03/P000889_dicom.tar
-sourcedata/DICOM/P000903_dicom.tar		2f6d88495cb3895b6611d8a1c7438079	https://data.inm-icf.de/Z03/P000903_dicom.tar
-sourcedata/DICOM/P000917_dicom.tar		b92e60f1d00176c13b70dc791450f657	https://data.inm-icf.de/Z03/P000917_dicom.tar
-sourcedata/DICOM/P000918_dicom.tar		46bac2984a8f2ab17f0f7087733279d6	https://data.inm-icf.de/Z03/P000918_dicom.tar
-sourcedata/DICOM/P000934_dicom.tar		f50f5a6cd5500b8df73ee4d45a9dd3c9	https://data.inm-icf.de/Z03/P000934_dicom.tar
-sourcedata/DICOM/P000935_dicom.tar		1192652b8faa54f0ab38aa984bbbda83	https://data.inm-icf.de/Z03/P000935_dicom.tar
-sourcedata/DICOM/P000944_dicom.tar		758c4274dfeb9e66cab15cb593e70015	https://data.inm-icf.de/Z03/P000944_dicom.tar
-sourcedata/DICOM/P000951_dicom.tar		e145bf1812ec99a6dad18d99e08d394e	https://data.inm-icf.de/Z03/P000951_dicom.tar
-sourcedata/DICOM/P000953_dicom.tar		47f21eea0a40b4a8503d678c46de5e46	https://data.inm-icf.de/Z03/P000953_dicom.tar
-sourcedata/DICOM/P000964_dicom.tar		8cc17274ac51b67beb072fe90988646e	https://data.inm-icf.de/Z03/P000964_dicom.tar
-sourcedata/DICOM/P000983_dicom.tar		e207683f70138b403fba0e59fd673bb9	https://data.inm-icf.de/Z03/P000983_dicom.tar
-sourcedata/DICOM/P000984_dicom.tar		4b26c395056fe3ac5dccfbc9b69eb3a7	https://data.inm-icf.de/Z03/P000984_dicom.tar
-sourcedata/DICOM/P000988_dicom.tar		70fbe21d4a462d7ef6a4df8d677de9d3	https://data.inm-icf.de/Z03/P000988_dicom.tar
-sourcedata/DICOM/P000989_dicom.tar		49d6ada94ba99f010b4951a3c2d1e5cd	https://data.inm-icf.de/Z03/P000989_dicom.tar
-sourcedata/DICOM/P000990_dicom.tar		c49c7eb41a6b568da3abf9d203fa8555	https://data.inm-icf.de/Z03/P000990_dicom.tar
-sourcedata/DICOM/P000998_dicom.tar		0c86963c54ecf52b0b5bfe0107f9a71f	https://data.inm-icf.de/Z03/P000998_dicom.tar
-sourcedata/DICOM/P001002_dicom.tar		b672b94ec9bc4121cadc5c2b1343ff6b	https://data.inm-icf.de/Z03/P001002_dicom.tar
-sourcedata/DICOM/P001003_dicom.tar		0cb6396653f69b0842e0d94d8e54e44f	https://data.inm-icf.de/Z03/P001003_dicom.tar
+Z03/P000803		3e48128df841dd1bc618004e5a9856d8	https://data.inm-icf.de/Z03/P000803_dicom.tar
+Z03/P000810		b63d8bcb6532da100e318414c31bd5eb	https://data.inm-icf.de/Z03/P000810_dicom.tar
+Z03/P000818		cc6ad7382b9ca0a093855c8db379b0ee	https://data.inm-icf.de/Z03/P000818_dicom.tar
+Z03/P000819		ff0e341685fec98e6bac492676499e15	https://data.inm-icf.de/Z03/P000819_dicom.tar
+Z03/P000830		dcca6f00f8168b45c6022e53c8c15afd	https://data.inm-icf.de/Z03/P000830_dicom.tar
+Z03/P000840		971272bd104a7ba3a0ee03f30e0fd080	https://data.inm-icf.de/Z03/P000840_dicom.tar
+Z03/P000844		020e88eb87f68b6364b5910a08908f7a	https://data.inm-icf.de/Z03/P000844_dicom.tar
+Z03/P000845		422579884cfc64522d8e317fda64a912	https://data.inm-icf.de/Z03/P000845_dicom.tar
+Z03/P000854		d007af0e139fa002878ec874f0924f4a	https://data.inm-icf.de/Z03/P000854_dicom.tar
+Z03/P000855		28543dffc50c8f8accaef97882591539	https://data.inm-icf.de/Z03/P000855_dicom.tar
+Z03/P000873		7bb99b8304a636f17254e62ad39112e3	https://data.inm-icf.de/Z03/P000873_dicom.tar
+Z03/P000874		58747354a575d0aac50c6dd3e7f1f8b9	https://data.inm-icf.de/Z03/P000874_dicom.tar
+Z03/P000888		7b08d8d1b740838932231862ca132314	https://data.inm-icf.de/Z03/P000888_dicom.tar
+Z03/P000889		6e3c5d49adb30c66adf2071f58720d10	https://data.inm-icf.de/Z03/P000889_dicom.tar
+Z03/P000903		2f6d88495cb3895b6611d8a1c7438079	https://data.inm-icf.de/Z03/P000903_dicom.tar
+Z03/P000917		b92e60f1d00176c13b70dc791450f657	https://data.inm-icf.de/Z03/P000917_dicom.tar
+Z03/P000918		46bac2984a8f2ab17f0f7087733279d6	https://data.inm-icf.de/Z03/P000918_dicom.tar
+Z03/P000934		f50f5a6cd5500b8df73ee4d45a9dd3c9	https://data.inm-icf.de/Z03/P000934_dicom.tar
+Z03/P000935		1192652b8faa54f0ab38aa984bbbda83	https://data.inm-icf.de/Z03/P000935_dicom.tar
+Z03/P000944		758c4274dfeb9e66cab15cb593e70015	https://data.inm-icf.de/Z03/P000944_dicom.tar
+Z03/P000951		e145bf1812ec99a6dad18d99e08d394e	https://data.inm-icf.de/Z03/P000951_dicom.tar
+Z03/P000953		47f21eea0a40b4a8503d678c46de5e46	https://data.inm-icf.de/Z03/P000953_dicom.tar
+Z03/P000964		8cc17274ac51b67beb072fe90988646e	https://data.inm-icf.de/Z03/P000964_dicom.tar
+Z03/P000983		e207683f70138b403fba0e59fd673bb9	https://data.inm-icf.de/Z03/P000983_dicom.tar
+Z03/P000984		4b26c395056fe3ac5dccfbc9b69eb3a7	https://data.inm-icf.de/Z03/P000984_dicom.tar
+Z03/P000988		70fbe21d4a462d7ef6a4df8d677de9d3	https://data.inm-icf.de/Z03/P000988_dicom.tar
+Z03/P000989		49d6ada94ba99f010b4951a3c2d1e5cd	https://data.inm-icf.de/Z03/P000989_dicom.tar
+Z03/P000990		c49c7eb41a6b568da3abf9d203fa8555	https://data.inm-icf.de/Z03/P000990_dicom.tar
+Z03/P000998		0c86963c54ecf52b0b5bfe0107f9a71f	https://data.inm-icf.de/Z03/P000998_dicom.tar
+Z03/P001002		b672b94ec9bc4121cadc5c2b1343ff6b	https://data.inm-icf.de/Z03/P001002_dicom.tar
+Z03/P001003		0cb6396653f69b0842e0d94d8e54e44f	https://data.inm-icf.de/Z03/P001003_dicom.tar
+Z03/P001011			https://data.inm-icf.de/Z03/P001011_dicom.tar
+Z03/P001012			https://data.inm-icf.de/Z03/P001012_dicom.tar
+Z03/P001013			https://data.inm-icf.de/Z03/P001013_dicom.tar
+Z03/P001020			https://data.inm-icf.de/Z03/P001020_dicom.tar
+Z03/P001034			https://data.inm-icf.de/Z03/P001034_dicom.tar
+Z03/P001035			https://data.inm-icf.de/Z03/P001035_dicom.tar
+Z03/P001040			https://data.inm-icf.de/Z03/P001040_dicom.tar
+Z03/P001041			https://data.inm-icf.de/Z03/P001041_dicom.tar
+Z03/P001048			https://data.inm-icf.de/Z03/P001048_dicom.tar
+Z03/P001049			https://data.inm-icf.de/Z03/P001049_dicom.tar
+Z03/P001050			https://data.inm-icf.de/Z03/P001050_dicom.tar
+Z03/P001051			https://data.inm-icf.de/Z03/P001051_dicom.tar
+Z03/P001052			https://data.inm-icf.de/Z03/P001052_dicom.tar
+Z03/P001053			https://data.inm-icf.de/Z03/P001053_dicom.tar
+Z03/P001058			https://data.inm-icf.de/Z03/P001058_dicom.tar
+Z03/P001059			https://data.inm-icf.de/Z03/P001059_dicom.tar
+Z03/P001064			https://data.inm-icf.de/Z03/P001064_dicom.tar
+Z03/P001065			https://data.inm-icf.de/Z03/P001065_dicom.tar
+Z03/P001066			https://data.inm-icf.de/Z03/P001066_dicom.tar
+Z03/P001072			https://data.inm-icf.de/Z03/P001072_dicom.tar
+Z03/P001073			https://data.inm-icf.de/Z03/P001073_dicom.tar
+Z03/P001078			https://data.inm-icf.de/Z03/P001078_dicom.tar
+Z03/P001079			https://data.inm-icf.de/Z03/P001079_dicom.tar
+Z03/P001081			https://data.inm-icf.de/Z03/P001081_dicom.tar
+Z03/P001087			https://data.inm-icf.de/Z03/P001087_dicom.tar
+Z03/P001088			https://data.inm-icf.de/Z03/P001088_dicom.tar
+Z03/P001094			https://data.inm-icf.de/Z03/P001094_dicom.tar
+Z03/P001095			https://data.inm-icf.de/Z03/P001095_dicom.tar
+Z03/P001096			https://data.inm-icf.de/Z03/P001096_dicom.tar
+Z03/P001107			https://data.inm-icf.de/Z03/P001107_dicom.tar
+Z03/P001109			https://data.inm-icf.de/Z03/P001109_dicom.tar
+Z03/P001114			https://data.inm-icf.de/Z03/P001114_dicom.tar
+Z03/P001115			https://data.inm-icf.de/Z03/P001115_dicom.tar
+Z03/P001123			https://data.inm-icf.de/Z03/P001123_dicom.tar
+Z03/P001124			https://data.inm-icf.de/Z03/P001124_dicom.tar
+Z03/P001137			https://data.inm-icf.de/Z03/P001137_dicom.tar
+Z03/P001148			https://data.inm-icf.de/Z03/P001148_dicom.tar
+Z03/P001157			https://data.inm-icf.de/Z03/P001157_dicom.tar
+Z03/P001158			https://data.inm-icf.de/Z03/P001158_dicom.tar
+Z03/P001169			https://data.inm-icf.de/Z03/P001169_dicom.tar
+Z03/P001170			https://data.inm-icf.de/Z03/P001170_dicom.tar
+Z03/P001181			https://data.inm-icf.de/Z03/P001181_dicom.tar
+Z03/P001182			https://data.inm-icf.de/Z03/P001182_dicom.tar
+Z03/P001204			https://data.inm-icf.de/Z03/P001204_dicom.tar
+Z03/P001205			https://data.inm-icf.de/Z03/P001205_dicom.tar
+Z03/P001214			https://data.inm-icf.de/Z03/P001214_dicom.tar
+Z03/P001216			https://data.inm-icf.de/Z03/P001216_dicom.tar
+Z03/P001225			https://data.inm-icf.de/Z03/P001225_dicom.tar
+Z03/P001226			https://data.inm-icf.de/Z03/P001226_dicom.tar
+Z03/P001232			https://data.inm-icf.de/Z03/P001232_dicom.tar
+Z03/P001240			https://data.inm-icf.de/Z03/P001240_dicom.tar
+Z03/P001242			https://data.inm-icf.de/Z03/P001242_dicom.tar
+Z03/P001244			https://data.inm-icf.de/Z03/P001244_dicom.tar
+Z03/P001269			https://data.inm-icf.de/Z03/P001269_dicom.tar
+Z03/P001277			https://data.inm-icf.de/Z03/P001277_dicom.tar
+Z03/P001294			https://data.inm-icf.de/Z03/P001294_dicom.tar
