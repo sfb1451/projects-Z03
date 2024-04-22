@@ -1,6 +1,6 @@
 name	Human Motor Assessment Center (MRI)
 title	Z03 MRI Dataset (Jülich site)
-description	Human Motor Assessment Centre data acquired at the FZJ Imaging Core Facility.
+description	Human Motor Assessment Centre data acquired at the FZJ Imaging Core Facility (T1, T2, FLAIR, resting-state fMRI, motor-task fMRI, diffusion-weighted imaging).
 crc-project	Z03
 version	latest
 sample[organism]	NCBITaxon:9606

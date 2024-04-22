@@ -1,6 +1,6 @@
 name	Z03-MRI-BIDS
 title	Z03 MRI dataset (Cologne site)
-description	Human Motor Assessment Centre data acquired at the MPI in Cologne.
+description	Human Motor Assessment Centre data acquired at the MPI in Cologne (T1, T2, FLAIR, resting-state fMRI, motor-task fMRI, diffusion-weighted imaging).
 crc-project	Z03
 version	latest
 sample[organism]	NCBITaxon:9606
